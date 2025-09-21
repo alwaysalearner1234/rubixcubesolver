@@ -1,3 +1,5 @@
+![Rubiks cube](C:\Users\lidiy\Downloads\rubiks-cool.webp)
+
 # AI Rubik's Cube Solver 🧩🤖
 
 This project is an AI-powered Rubik's Cube solver that can take a scrambled cube state as input and return the optimal solution steps.
